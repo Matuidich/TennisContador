@@ -10,7 +10,9 @@
     jugador1Anoto(){
         this.jugador1++;
     }
-
+    jugador2Anoto(){
+        this.jugador2++;
+    }
   }
    
   export default Tennis;
