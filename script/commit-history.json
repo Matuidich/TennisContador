@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Mateo Rojas Campos",
+    "commit": {
+      "date": "2026-09-03T12:45:57.000Z",
+      "message": "15 - 0 arreglado, test funciona",
+      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 87.5,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

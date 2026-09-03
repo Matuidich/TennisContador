@@ -5,6 +5,9 @@
     }
 
     obtenerScore(){
+         if (this.jugador1 === 1) {
+        return "15 - Love";
+        }
         return "Love - Love"
     }
     jugador1Anoto(){

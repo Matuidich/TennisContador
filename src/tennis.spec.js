@@ -9,7 +9,7 @@ describe("Tennis",() => {
   it("deberia mostrar 15 - Love cuando ningun jugador anoto", () => {
     let tennis = new Tennis();
     tennis.jugador1Anoto();
-    expect(tennis.jugador1Anoto()).toEqual("15 - Love");
+    expect(tennis.obtenerScore()).toEqual("15 - Love");
   });
 
 });
