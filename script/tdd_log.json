@@ -158,9 +158,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b32bc5070e374c0679aab78b866320e4f72a2b64",
     "commitName": "prueba realizada para j2 love - 30",
     "commitTimestamp": 1788440391449,
     "testId": 5
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1788440802176,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788440814300,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba realizada para j2 love - 40",
+    "commitTimestamp": 1788440842749,
+    "testId": 6
   }
 ]
