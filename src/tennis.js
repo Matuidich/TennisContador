@@ -5,6 +5,9 @@
     }
 
     obtenerScore(){
+        if (this.jugador1 === 3 && this.jugador2 === 4) {
+            return "Advantage for Player 2";
+        }
         if (this.jugador1 === 4 && this.jugador2 === 3) {
             return "Advantage for Player 1";
         }

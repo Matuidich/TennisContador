@@ -330,9 +330,31 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ded62b642a95249bc51efe1d6beaaa48bd97ff79",
     "commitName": "prueba realizada para Advantage por play 1",
     "commitTimestamp": 1788442160804,
     "testId": 11
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 2,
+    "numTotalTests": 14,
+    "timestamp": 1788442257494,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1788442275613,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba relizada para advantage for player 2",
+    "commitTimestamp": 1788442302357,
+    "testId": 12
   }
 ]

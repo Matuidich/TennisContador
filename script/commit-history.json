@@ -209,12 +209,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ded62b642a95249bc51efe1d6beaaa48bd97ff79",
     "author": "Mateo Rojas Campos",
     "commit": {
       "date": "2026-09-03T13:29:18.000Z",
       "message": "prueba realizada para Advantage por play 1",
-      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+      "url": "https://github.com/Matuidich/TennisContador/commit/ded62b642a95249bc51efe1d6beaaa48bd97ff79"
     },
     "stats": {
       "total": 14,
@@ -224,6 +224,25 @@
     },
     "coverage": 100,
     "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo Rojas Campos",
+    "commit": {
+      "date": "2026-09-03T13:31:40.000Z",
+      "message": "prueba relizada para advantage for player 2",
+      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 14,
     "failed_tests": 0,
     "conclusion": "success"
   }

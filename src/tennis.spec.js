@@ -86,5 +86,16 @@ describe("Tennis",() => {
     tennis.jugador2Anoto();
     expect(tennis.obtenerScore()).toEqual("Advantage for Player 1");
   });
+  it("deberia mostrar Advantage for Player 2 cuando el jugador 1 anota 3 veces y el jugador 2 anota 4 veces", () => {
+    let tennis = new Tennis();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador2Anoto();
+    tennis.jugador2Anoto();
+    tennis.jugador2Anoto();
+    tennis.jugador2Anoto();
+    expect(tennis.obtenerScore()).toEqual("Advantage for Player 2");
+  });
 });
 });
