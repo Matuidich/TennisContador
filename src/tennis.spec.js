@@ -24,5 +24,13 @@ describe("Tennis",() => {
     tennis.jugador1Anoto();
     expect(tennis.obtenerScore()).toEqual("40 - Love");
   });
+  it("deberia mostrar Game for Player 1 cuando el jugador 1 anota 4 veces", () => {
+    let tennis = new Tennis();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    expect(tennis.obtenerScore()).toEqual("Game for Player 1");
+  });
 });
 });

@@ -84,9 +84,39 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "eb75bed464dc1a94cfd3f16d650d492cc138c99b",
     "commitName": "prueba 3 para j1 realizada",
     "commitTimestamp": 1788439910925,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788440059481,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788440071787,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788440103765,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba realizada para game para j1",
+    "commitTimestamp": 1788440123621,
+    "testId": 3
   }
 ]

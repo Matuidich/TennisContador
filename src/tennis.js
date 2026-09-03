@@ -14,6 +14,9 @@
         if (this.jugador1 === 3) {
             return "40 - Love";
         }
+        if (this.jugador1 === 4) {
+            return "Game for Player 1";
+        }
         return "Love - Love"
     }
     jugador1Anoto(){
