@@ -40,9 +40,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "262e9d7689c4c1cf23370a34ba80526ddd0f0491",
     "commitName": "15 - 0 arreglado, test funciona",
     "commitTimestamp": 1788439560679,
     "testId": 0
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788439727924,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788439779502,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba 2 pasada, 30 - love",
+    "commitTimestamp": 1788439804442,
+    "testId": 1
   }
 ]
