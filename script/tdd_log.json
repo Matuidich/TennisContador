@@ -202,9 +202,63 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c871552ecb01295edc7bf8dca20d8a743bc3e899",
     "commitName": "prueba realizada para j2 Game for Player 2",
     "commitTimestamp": 1788441122861,
     "testId": 7
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788441233241,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788441242293,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788441242293,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788441474414,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788441542078,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788441578768,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba realizada para 30 - 15",
+    "commitTimestamp": 1788441602741,
+    "testId": 8
   }
 ]
