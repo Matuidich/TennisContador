@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2ce142a2491983e2adf0cd7896a82c331d09dccb",
     "author": "Mateo Rojas Campos",
     "commit": {
       "date": "2026-09-03T13:07:20.000Z",
       "message": "prueba realizada para j2 love - 40",
-      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+      "url": "https://github.com/Matuidich/TennisContador/commit/2ce142a2491983e2adf0cd7896a82c331d09dccb"
     },
     "stats": {
       "total": 12,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo Rojas Campos",
+    "commit": {
+      "date": "2026-09-03T13:12:00.000Z",
+      "message": "prueba realizada para j2 Game for Player 2",
+      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

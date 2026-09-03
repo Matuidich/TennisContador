@@ -180,9 +180,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2ce142a2491983e2adf0cd7896a82c331d09dccb",
     "commitName": "prueba realizada para j2 love - 40",
     "commitTimestamp": 1788440842749,
     "testId": 6
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1788441087460,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1788441097172,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba realizada para j2 Game for Player 2",
+    "commitTimestamp": 1788441122861,
+    "testId": 7
   }
 ]
