@@ -8,7 +8,7 @@
         if (this.jugador1 === 2 && this.jugador2 === 1) {
             return "30 - 15";
         }
-        if (this.jugador1 ===3 && this.jugador2==1)
+        if (this.jugador1 ===3 && this.jugador2==3)
         {
             return "Deuce"
         }
