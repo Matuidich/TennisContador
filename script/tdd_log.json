@@ -62,9 +62,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "322f3bb9a6bfd42de155cbada459904b2b3d7bea",
     "commitName": "prueba 2 pasada, 30 - love",
     "commitTimestamp": 1788439804442,
     "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788439879126,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788439891620,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "prueba 3 para j1 realizada",
+    "commitTimestamp": 1788439910925,
+    "testId": 2
   }
 ]

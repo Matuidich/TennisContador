@@ -17,5 +17,12 @@ describe("Tennis",() => {
     tennis.jugador1Anoto();
     expect(tennis.obtenerScore()).toEqual("30 - Love");
   });
+  it("deberia mostrar 40 - Love cuando el jugador 1 anota 3 veces", () => {
+    let tennis = new Tennis();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    expect(tennis.obtenerScore()).toEqual("40 - Love");
+  });
 });
 });

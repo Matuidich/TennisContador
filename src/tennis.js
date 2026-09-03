@@ -11,6 +11,9 @@
         if (this.jugador1 === 2) {
             return "30 - Love";
         }
+        if (this.jugador1 === 3) {
+            return "40 - Love";
+        }
         return "Love - Love"
     }
     jugador1Anoto(){
