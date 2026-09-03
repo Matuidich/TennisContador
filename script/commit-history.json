@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1adb76893873a595eeb3dc653f32040ac0d2da44",
     "author": "Mateo Rojas Campos",
     "commit": {
       "date": "2026-09-03T13:20:00.000Z",
       "message": "prueba realizada para 30 - 15",
-      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+      "url": "https://github.com/Matuidich/TennisContador/commit/1adb76893873a595eeb3dc653f32040ac0d2da44"
     },
     "stats": {
       "total": 12,
@@ -169,5 +169,24 @@
     "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo Rojas Campos",
+    "commit": {
+      "date": "2026-09-03T13:22:50.000Z",
+      "message": "prueba realizada para deuce",
+      "url": "https://github.com/Matuidich/TennisContador/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 96.15,
+    "test_count": 12,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

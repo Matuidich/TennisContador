@@ -65,5 +65,15 @@ describe("Tennis",() => {
     tennis.jugador2Anoto();
     expect(tennis.obtenerScore()).toEqual("30 - 15");
   });
+  it("deberia mostrar Deuce cuando el jugador 1 anota 3 veces y el jugador 2 anota 3 veces", () => {
+    let tennis = new Tennis();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador1Anoto();
+    tennis.jugador2Anoto();
+    tennis.jugador2Anoto();
+    tennis.jugador2Anoto();
+    expect(tennis.obtenerScore()).toEqual("Deuce");
+  });
 });
 });
